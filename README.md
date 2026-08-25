@@ -1,10 +1,10 @@
-# Thought Leadership Platform
+# Leonard Robinson's Thought Leadership
 
-Welcome to a space for sharing insights, ideas, and expertise on technology, innovation, and industry trends.
+Welcome to a space for sharing insights, ideas, and expertise on biotech, AI, Computer Engineering, Business, Finance, Negotiation, Statistics, market analysis, and the power granted by technology, innovation, and industry trends.
 
-## 🚀 About This Site
+## About This Site
 
-This repository serves as a thought leadership hub—a platform for publishing articles, research, and commentary on emerging technologies, best practices, and strategic industry developments.
+This repository serves as a templated thought leadership hub a platform for publishing articles, research, and commentary on emerging technologies, best practices, and strategic industry developments.
 
 ## 📚 Content Areas
 
@@ -13,22 +13,19 @@ This repository serves as a thought leadership hub—a platform for publishing a
 - **Commentary** - Perspectives on industry news and developments
 - **Resources** - Curated tools, frameworks, and learning materials
 
-## 🎯 Vision
+## Vision
 
-This platform aims to contribute meaningful perspectives to ongoing conversations in the tech community, fostering knowledge sharing and collaborative learning.
+This platform aims to contribute meaningful perspectives to ongoing conversations in the tech community, fostering knowledge sharing and collaborative learning. It mirrors posts on Substack, LinkedIn, and other platforms where Leonard Robinson's content resides.
 
-## 📖 Getting Started
+## Getting Started
 
 ### For Readers
 Visit the [GitHub Pages site](https://lcr2131.github.io/turbo-octo-succotash) to explore published content.
 
 ### For Contributors
-We welcome contributions! To add content:
+We welcome contributions and article suggestionss! To add content:
 
-1. Fork this repository
-2. Create a new branch for your content
-3. Add your article or resource in the appropriate directory
-4. Submit a pull request with a description of your contribution
+1. Click the "Check Out this Article Leonard!" button
 
 ## 📂 Repository Structure
 
@@ -48,12 +45,15 @@ We welcome contributions! To add content:
 - **Markdown** - Content format
 - **Jekyll** - Site generator (optional)
 
-## 💡 Content Guidelines
+## My Content Guidelines
+I promise to maintain the following guidelines
 
 - **Originality** - Contribute unique perspectives and original research
 - **Clarity** - Write for a diverse audience; explain technical concepts accessibly
 - **Accuracy** - Fact-check claims and cite sources
 - **Engagement** - Use examples and storytelling to illustrate key points
+- **Natural** 100* of my authorship will have been written by me. I will use AI for things such as spell checking, fact checking, and other error checking. I cannot promise that 3rd party resources did not use AI, but if there is AI attribution, I will include it in the footnotes.
+
 
 ## 📝 License
 
